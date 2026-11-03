@@ -10,7 +10,6 @@ A hands-on AWS project that sets up access control with **AWS Identity and Acces
 - [Services Used](#services-used)
 - [Prerequisites](#prerequisites)
 - [Implementation Steps](#implementation-steps)
-- [Screenshots](#screenshots)
 - [Security Best Practices](#security-best-practices)
 - [Key Learnings](#key-learnings)
 - [Author](#author)
@@ -77,22 +76,6 @@ Controlling who can do what in a cloud account is the foundation of AWS security
 
 ---
 
-## Screenshots
-
-### IAM Users
-![IAM Users](images/iam-users.png)
-
-### IAM Roles
-![IAM Roles](images/iam-roles.png)
-
-### IAM Policies
-![IAM Policies](images/iam-policies.png)
-
-### EC2 Instance
-![EC2 Instance](images/ec2-instance.png)
-
----
-
 ## Security Best Practices
 
 - Do not use the root account for daily work. Use IAM users or roles.
@@ -116,5 +99,5 @@ Controlling who can do what in a cloud account is the foundation of AWS security
 
 ## Author
 
-**Vinay**
-GitHub: [Vinay-PR-Gowda](https://github.com/Vinay-PR-Gowda)
+**Vikram**
+GitHub: [Vikram C N](https://github.com/Vikramcntrivikram)
